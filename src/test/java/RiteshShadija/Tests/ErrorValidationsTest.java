@@ -14,9 +14,9 @@ public class ErrorValidationsTest extends BaseTest{
 	public void loginErrorValidation()
 	{
 		L1.loginApplication("gone@gmail.com", "sdfg");
-		Assert.assertEquals(L1.getErrorMessage(), "Hello1");
+		Assert.assertEquals(L1.getErrorMessage(), "Hello2");
 		// comment by the y
-		//comment by the x
+		//comment by the x hello2
 		
 	}
 	
