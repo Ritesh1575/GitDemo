@@ -36,13 +36,7 @@ public class SubmitOrderTest extends BaseTest
 	}
 
 	
-	//This is develop branch
-	// changes made by Y
-	// changes made by at 121 am 
 	
-	//changes made by x
-	
-	//changes made by y at 143
 	
 	
 	
